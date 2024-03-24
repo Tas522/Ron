@@ -1,0 +1,23 @@
+/* style.css */
+
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Add your custom styles below */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Customize your navigation menu */
+.navbar {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Add more styles for other sections as needed */
+/* e.g., .about, .services, .portfolio, .contact */
